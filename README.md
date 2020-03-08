@@ -9,7 +9,7 @@ This rendition is a version of the excellent
 [tplink-cloud-api NPM module](https://www.npmjs.com/package/tplink-cloud-api).
 While that module is written in the Node async paradigm, this
 rendition in Python uses blocking calls that make it easier for novice
-programmers to read.
+programmers.
 
 # Usage
     # First create the TPLink instance
