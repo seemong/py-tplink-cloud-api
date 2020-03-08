@@ -3,7 +3,7 @@ This library includes a Python class for manipulating the TPLink Kasa
 family of smart plugs and switches.
 
 I purposely chose to show the request format for each kind of action in
-full, so that
+full, so that programmers can see how each action is structured.
 
 This rendition is a version of the excellent
 [tplink-cloud-api NPM module](https://www.npmjs.com/package/tplink-cloud-api).
